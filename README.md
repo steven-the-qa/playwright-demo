@@ -15,3 +15,9 @@ A demo I put together for Sturgeon Bay High School students to showcase some Pla
 - Clearing and filling text inputs
 - Continuing a test in a new tab
 - Verifying editability and visibility of DOM elements
+
+## How to run the tests
+
+1. Clone this repo to your machine
+2. Run `npm install` to install dependencies for the project
+3. Run `npx playwright test` to run tests
